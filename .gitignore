@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+# generated outputs — rebuild from scripts
+*.stl
+*.svg
+translations/
+ads/
+flat*.jpg
+motif*.png
